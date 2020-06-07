@@ -1,2 +1,1 @@
-# ParseRedmine
-Select Redmine Task
+# ParseList
